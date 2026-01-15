@@ -44,7 +44,8 @@ GestaoDePacientesAPI/
 └─ Program.cs             # Configurações de serviços, injeções de dependências e middlewares
 ```
 
-
+## 📸 Screenshot da API no Swagger
+<img width="1863" height="930" alt="swagger" src="https://github.com/user-attachments/assets/ce33b0a7-3fb4-41b1-baec-5ea30208ef67" />
 
 ## ▶️ Como executar o projeto
 

@@ -57,7 +57,7 @@ Após isso execute o passo a passo abaixo:
 
 1 - Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/felipef210/Desafio-tecnico-dotnet.git
 ```
 
 2 - Entre na GestaoDePacientesAPI, abra o local do arquivo com o **VsCode** e em seguida habilite o uso de secrets no projeto para garantir a conexão com o banco de dados:

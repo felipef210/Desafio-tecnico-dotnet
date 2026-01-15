@@ -20,6 +20,9 @@ O diferencial dessa API é que ela trabalha em conjunto com uma API pública ext
 - ViaCEP (API externa);
 - Swagger.
 
+## 🗄️ Modelagem de Dados
+![DER-desafio](https://github.com/user-attachments/assets/a16b7b2b-a366-40aa-82dd-026198bf8840)
+
 ## 💡 Destaques Técnicos
 - **Validação de Negócio:** Tratamento de nomes completos (capitalização inteligente ignorando preposições).
 - **Consumo de API:** Integração resiliente com ViaCEP para enriquecimento automático de endereço.

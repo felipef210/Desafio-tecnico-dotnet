@@ -49,7 +49,7 @@ GestaoDePacientesAPI/
 
 ## ▶️ Como executar o projeto
 
-Antes de tudo é importante que você tenha uma SDK do .NET instalada em sua máquina, caso não tenha entre no link: https://dotnet.microsoft.com/pt-br/download/dotnet baixe e instale na sua máquina.
+Antes de tudo é importante que você tenha uma SDK do .NET na versão 8 instalada em sua máquina, caso não tenha entre no link: https://dotnet.microsoft.com/pt-br/download/dotnet baixe e instale na sua máquina.
 
 Após isso execute o passo a passo abaixo:
 

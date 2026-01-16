@@ -47,6 +47,7 @@ public class PacienteController : ControllerBase
     /// Edita um paciente do banco de dados pelo seu identificador único (Id).
     /// </summary>
     /// <param name="id">Identificador do paciente desejado para edição.</param>
+    /// <param name="editarPacienteDto">Objeto com os campos necessários para edição de cadastro de um paciente</param>
     /// <returns>IActionResult</returns>
     /// <response code="200">Caso a modificação seja feita com sucesso.</response>
     [HttpPut("{id}")]
